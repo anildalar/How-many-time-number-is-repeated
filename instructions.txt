@@ -1,1 +1,22 @@
  [1,2,3,2,3,3,4,1,55,6,5,6,5,3,54,5,0,7,9,7]
+
+For iterating over an array
+forEach
+
+
+For iterating over object 
+forin
+{
+	p:v
+	1:previousValue + 1
+	55:1,
+	2:2,
+	3:4
+		
+}
+
+Algorithm  -> Program
+
+https://anildalar.github.io/How-many-time-number-is-repeated/
+
+https://github.com/anildalar/How-many-time-number-is-repeated
